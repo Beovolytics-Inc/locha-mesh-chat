@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/btcven/locha-mesh-chat) 
+
 <p align="center">
   <a href="https://locha.io/">
     <img height="200px" src="documents/configuration/files/logo.png">
